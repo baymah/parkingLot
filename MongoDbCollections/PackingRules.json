@@ -1,0 +1,11 @@
+[{
+  "_id": "b4e7303b-c122-4af8-b9b3-be9d90ed4ded",
+  "Name": "string",
+  "EntranceFee": "2",
+  "FirstFullOrParialHourCost": "3",
+  "SuccessiveFullOrpartial": "4",
+  "TimeFormat": "string",
+  "EntryTime": "string",
+  "ExitTime": "string",
+  "CreatedDate": "2022-04-11T13:35:00.7886285+00:00"
+}]

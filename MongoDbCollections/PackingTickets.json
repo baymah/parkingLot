@@ -1,0 +1,36 @@
+[{
+  "_id": "1d7169bc-e7cf-4120-a886-e528c1fb7db4",
+  "Name": "Default",
+  "ArrivalTime": "10:00",
+  "ExitTime": "13:21",
+  "Price": "17",
+  "CreatedDate": "0001-01-01T00:00:00+00:00"
+},{
+  "_id": "cacf4b5e-f247-4fc6-9c66-12c4d0ea9f6e",
+  "Name": "Default",
+  "ArrivalTime": "10:00",
+  "ExitTime": "13:45",
+  "Price": "17",
+  "CreatedDate": "2022-04-11T13:39:59.3717243+00:00"
+},{
+  "_id": "cfcaa99a-aeda-477d-9577-3c56020f4b3a",
+  "Name": "Default",
+  "ArrivalTime": "09:42",
+  "ExitTime": "11:42",
+  "Price": "9",
+  "CreatedDate": "2022-04-11T13:48:12.9199686+00:00"
+},{
+  "_id": "8564453a-6ccb-4c8d-b577-3646d0e92f4c",
+  "Name": "Default",
+  "ArrivalTime": "10:00",
+  "ExitTime": "13:21",
+  "Price": "17",
+  "CreatedDate": "2022-04-11T13:50:57.6317357+00:00"
+},{
+  "_id": "ef184213-8df7-45cd-823b-b78dc7f6656a",
+  "Name": "Default",
+  "ArrivalTime": "12:00",
+  "ExitTime": "15:21",
+  "Price": "17",
+  "CreatedDate": "2022-04-11T13:52:09.3949907+00:00"
+}]
